@@ -11,3 +11,13 @@ It was created in Japanese.
 このウィジェットはAIを使用して作られたものです
 このウィジェットはシンプルなウィジェットです
 
+ノッチ
+Notch
+
+![ノッチです](./images/ノッチ.png)
+
+ダイナミックアイランド
+Dynamic Island
+
+![ダイナミックアイランドです](./images/ダイナミックアイランド.png)
+
