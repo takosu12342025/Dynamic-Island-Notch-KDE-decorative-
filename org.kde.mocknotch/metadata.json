@@ -1,0 +1,16 @@
+{
+    "KPlugin": {
+        "Id": "org.kde.mocknotch",
+        "Name": "Mock Notch & Island",
+        "Description": "設定画面から形状やサイズを自由に変更できるカスタムノッチ",
+        "Icon": "preferences-desktop-display",
+        "Version": "16.0",
+        "Authors": [{"Name": "AI Assistant"}],
+        "Category": "Windows and Tasks",
+        "Enabled": true,
+        "License": "GPL",
+        "FormFactors": ["horizontal"]
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
